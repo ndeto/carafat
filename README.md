@@ -12,17 +12,7 @@
 
   <br />
   
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
-
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
-
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
-
-I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django, and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
-
-I had already built so many Websites with the mentioned skill.
+  I'm Ndeto, you'll find me coding with Ruby on Rails, or doing Blockchain with Python and Solidity
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
@@ -65,7 +55,7 @@ I had already built so many Websites with the mentioned skill.
 
 <p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
-<img align="right" src="https://img.shields.io/github/followers/Fullstack-WEB-Blockchain-Developer?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/ndeto?label=Follow&style=social" />
 </p>
 
 <br/>
