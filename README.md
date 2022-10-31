@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ndeto&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
  ![](./profile-3d-contrib/profile-night-view.svg)
 <!-- 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ndeto&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p> -->
 
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -70,14 +70,14 @@ I had already built so many Websites with the mentioned skill.
 
 <br/>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Fullstack-WEB-Blockchain-Developer&theme=github&count_private=true)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ndeto&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=ndeto&theme=github&count_private=true)
 
 <div align="center"/>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=Fullstack-WEB-Blockchain-Developer)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=ndeto)
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Fullstack-WEB-Blockchain-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ndeto&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-WEB-Blockchain-Developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndeto&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 </div>
